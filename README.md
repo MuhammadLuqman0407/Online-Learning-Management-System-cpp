@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Online Learning Management System (LMS)
 
 This project is a **console-based Online Learning Management System** written in C++. It provides a platform for students, instructors, and admins to manage courses, assignments, quizzes, enrollments, and certificates. The system uses text files for persistent data storage.
@@ -42,11 +41,15 @@ This project is developed using Object-Oriented Programming (OOP) concepts in C+
 
 ### Dependencies
 The project uses standard C++ libraries. Ensure a compatible compiler environment for compilation and execution.
+
 ## Contributors
-Muhammad Luqman: https://github.com/MuhammadLuqman0407
+[GitHub Profile](https://github.com/YourGitHubUsername)
+
 ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. License
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.
 =======
-# Course Management System like the coursa 
->>>>>>> 438466c91388a356b4ba971a55e8ad88b269d34d
+# Course Management System like the coursera 
+
+
