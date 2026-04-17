@@ -43,13 +43,12 @@ This project is developed using Object-Oriented Programming (OOP) concepts in C+
 The project uses standard C++ libraries. Ensure a compatible compiler environment for compilation and execution.
 
 ## Contributors
-[GitHub Profile](https://github.com/YourGitHubUsername)
+[GitHub Profile](https://github.com/MuhammadLuqman0407)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
 =======
-# Course Management System like the coursera 
+
 
 
