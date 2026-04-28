@@ -1,6 +1,0 @@
-ahmedKaloo|ADM00001|ahmedkaloo@gmail.com|IT
-Hassan|ADM002|admin@example.com|CS
-ali|INT00002|admin@example.com|Mechnical
-ahmed@gmail.com|1122|ahmed@gmail.com|SE
-ADMIN001|ADMIN001|admin@gmail.com|IT
-Husnain|AD001|admin@example.com|CS

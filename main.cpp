@@ -1084,8 +1084,33 @@ public:
                 cout << "Application Status: " << status << endl;
                 cout << "Hours since application: " << hoursPassed << endl;
                 
+                // if (status == "Pending" && hoursPassed >= 24) {
+                //     cout << "**Certificate is now AVAILABLE for download!**" << endl;
+                    
+                // }
                 if (status == "Pending" && hoursPassed >= 24) {
                     cout << "**Certificate is now AVAILABLE for download!**" << endl;
+                    
+                    cout << "Do you want to download/view the certificate? (y/n): ";
+                    char choice;
+                    cin >> choice;
+                    if (choice == 'y' || choice == 'Y') {
+                        // Display certificate details
+                        cout << "\n==========================================" << endl;
+                        cout << "         CERTIFICATE OF COMPLETION" << endl;
+                        cout << "==========================================" << endl;
+                        cout << "This is to certify that" << endl;
+                        cout << fileName << endl;
+                        cout << "has successfully completed the course" << endl;
+                        cout << courseName << endl;
+                        cout << "Course ID: " << courseID << endl;
+                        cout << "Student ID: " << fileStudentID << endl;
+                        cout << "Issued on: " << ctime(&currentTime);
+                        cout << "==========================================" << endl;
+                        
+                        // Optionally, update status to "Downloaded" (commented out as per user request, but can be added if needed)
+                        // To update, you would need to rewrite the file similar to other update functions in the code.
+                    }
                 }
             }
         }

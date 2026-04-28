@@ -1,3 +1,2 @@
 Muhammad|STD00001|muhammad12@gmail.com
-MuhammadALi|002|ali@gmail.com
-abarali|STD002|babarali@gmail.com
+

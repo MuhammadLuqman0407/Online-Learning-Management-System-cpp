@@ -1,10 +1,2 @@
 NAME|EMAIL|PASSWORD|ROLE
 Muhammad|muhammad12@gmail.com|1111|1
-babar|babar@gmail.com|1122|2
-ahmedAli|ahmed123@gmail.com|1212|3
-MuhammadALi|ali@gmail.com|2222|1
-ahmed@gmail.com|ahmed@gmail.com|1111|3
-ALI|admin@gmail.com|9090|3
-Qazi Shuja|qazi@gmail.com|7890|2
-Qazi Shuja|qaziShuja@gmail.com|9087|2
-babarali|babarali@gmail.com|3456|1

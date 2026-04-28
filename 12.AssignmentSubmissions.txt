@@ -1,3 +1,0 @@
-002|CC001| Ai agent are perceives its enivornment and takes actions to achieve goals, enabling automation and inteligent decision making.|Submitted
-STD002|SD001|LMS |Submitted
-STD002|SD001|LMS |Submitted

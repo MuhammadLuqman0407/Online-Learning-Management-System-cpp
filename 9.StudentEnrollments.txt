@@ -1,7 +1,6 @@
 002|MuhammadALi|CC001|Ai Agent|Certificate|2000|Completed|1|1
 002|MuhammadALi|4|4|Non-Certificate|0|Enrolled|0|0
-STD00001|Muhammad|NC002|System Design|Non-Certificate|0|Enrolled|0|0
 002|MuhammadALi|CC003|Machine Learning|Certificate|500|Enrolled|0|0
 002|MuhammadALi|CC002|Generative Ai|Certificate|2000|Enrolled|0|0
 002|MuhammadALi|NC003|Operating System|Non-Certificate|0|Enrolled|0|0
-STD002|abarali|SD001|System Design|Certificate|3000|Completed|1|1
+

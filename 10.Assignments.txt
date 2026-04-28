@@ -1,5 +1,0 @@
-se101|Assignment#01||01
-se101|Assignment#02|What is the primary function of an algorithm in computer science?|
-rt5656|565656|rtrtrt|INT00001
-CC001|Introduction to Ai Agent |describe the Ai agent and why we use the ai agent?|INT00001
-SD001|Design and Implementation of a Library Management System|Make the design for the LMS|IS098

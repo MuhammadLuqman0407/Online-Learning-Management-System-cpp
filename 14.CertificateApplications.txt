@@ -1,5 +1,4 @@
 002|MuhammadALi|CC001|Ai Agent|Applied|1754494634
 002|MuhammadALi|CC001|Ai Agent|Applied|1754823015
-002|MuhammadALi|CC001|Ai Agent|Pending|1763280129
-STD002|abarali|SD001|System Design|Pending|1776447406
+
 

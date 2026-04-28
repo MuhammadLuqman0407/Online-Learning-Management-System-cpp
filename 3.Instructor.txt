@@ -1,3 +1,0 @@
-babar|INT00001|babar@gmail.com|AI,SE|20000
-Qazi Shuja|IS0001|qazi@gmail.com||0
-aziShuja@gmail.com|IS098|qaziShuja@gmail.com|Web,SE|20000
